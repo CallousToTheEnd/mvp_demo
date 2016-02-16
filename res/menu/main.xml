@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jsoupt.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_newspage_menu_moreoverflow"
+        android:title="@string/action_settings"/>
+
+</menu>
